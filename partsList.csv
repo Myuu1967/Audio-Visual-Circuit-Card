@@ -1,0 +1,23 @@
+Reference,Value,Datasheet,Footprint,Qty,DNP,秋月電子 販売コード,備考
+"C1,C2",10u,~,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,2,,113161,
+"C3,C4",0.1u,~,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,2,,113374,
+C5,220u,~,Capacitor_SMD:CP_Elec_10x10,1,,104577,5個セット
+C6,47u,~,Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder,1,,116078,
+D1,1N4007,~,Diode_THT:D_5W_P10.16mm_Horizontal,1,,100934,耐圧が十分なら代用品可（１Vのツェナーダイオードでもいいです。取り付ける向きは逆になります）
+D2,LED,~,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,1,,108274,
+"D3,D4,D5,D6,D7",WS2812B,https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf,LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,5,,107915,2個入り
+J1,B2B-XH-A_LF__SN_,http://www.jst-mfg.com/product/pdf/eng/eXH.pdf,digikey-footprints:PinHeader_1x2_P2.5mm_Drill1.1mm,1,,112247,コネクタを使用する場合、メス側も用意する必要があります
+J2,Conn_01x03_Socket,~,Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical,1,,105779,分割して使ってください
+LS1,Speaker,~,Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical,1,,112587,（一例です）
+R1,10,~,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,,113832,千石電商にて10個入りあり
+R2,4.7K,~,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,,130353,
+"R3,R4,RV1",10K,~,-- ミックスされた値 --,3,,130355,
+R5,470,~,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,,130349,
+"S1,S2,S3,S4,S5",1825910-6,https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English,digikey-footprints:Switch_Tactile_THT_6x6mm,5,,103647,色違いあります
+SW1,SW_SPDT,~,Library:sw_slide,1,,115707,
+SW2,SW_DIP_x02,~,Button_Switch_THT:SW_DIP_SPSTx02_Slide_9.78x7.26mm_W7.62mm_P2.54mm,1,,103141,
+U1,LM386,http://www.ti.com/lit/ds/symlink/lm386.pdf,Package_SO:SO-8_5.3x6.2mm_P1.27mm,1,,114549,
+U2,~,,Library:xiaoEsp32C3,1,,117454,
+,,,,,,,
+,,,,,,,
+,※ご要望によっては部品の販売を行うかもしれないです（不手際申し訳ありません）,,,,,,
