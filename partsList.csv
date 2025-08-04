@@ -13,7 +13,7 @@ R1,10,~,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,,113832,çÎ“
 R2,4.7K,~,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,,130353,
 "R3,R4",10K,~,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,2,,130355,
 R5,470,~,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1,,130349,
-RV1,10K,,,1,,114905,
+RV1,10K,,,1,,114905,ƒsƒ“•‚Æ”z’u‚ª“¯‚¶‚Å’ïR’l‚ª“¯‚¶‚È‚ç‘ã—p•i‰Â
 "S1,S2,S3,S4,S5",1825910-6,https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English,digikey-footprints:Switch_Tactile_THT_6x6mm,5,,103647,Fˆá‚¢‚ ‚è‚Ü‚·
 SW1,SW_SPDT,~,Library:sw_slide,1,,115707,
 SW2,SW_DIP_x02,~,Button_Switch_THT:SW_DIP_SPSTx02_Slide_9.78x7.26mm_W7.62mm_P2.54mm,1,,103141,
